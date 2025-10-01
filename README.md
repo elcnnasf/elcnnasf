@@ -4,7 +4,7 @@
  Currently exploring *Full Stack Development* and *Cyber Security* as potential career paths.  
 
 
-   Skills & Interests  
+  🚀Skills & Interests  
 -  Computer Networks  
 -  Discrete Mathematics & Probability  
 -  Python Programming  
@@ -13,7 +13,7 @@
 
 
 
-   Current Projects  
+  📌Current Projects  
 -  Preparing study materials & exam-style solutions in academic format  
 -  Building small *Full Stack* applications  
 -  Creating slides and documents for learning and sharing  
