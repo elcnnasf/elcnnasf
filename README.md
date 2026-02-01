@@ -1,19 +1,18 @@
-# 👋 Hi, I'm Elcan Atasov  
+👋 Hey, I'm Elcan 
+Full-Stack Developer | Backend & Frontend Explorer | Problem Solver
 
- I’m a student passionate about *Computer Science, Networking, and Mathematics*.  
- Currently exploring *Full Stack Development* and *Cyber Security* as potential career paths.  
+🌐 Connect with me
 
+🛠 Languages & Tools
+MVC ASP.NET | Python | SQL | HTML/CSS/JS | REST APIs | Git | Docker
 
-  🚀Skills & Interests  
--  Computer Networks  
--  Discrete Mathematics & Probability  
--  Python Programming  
--  Full Stack Development (learning)  
--  Cyber Security (beginner)  
+✨ About Me
 
+👨‍💻 Passionate about building web apps from front to back with clean, maintainable code
+🧩 Love exploring both frontend and backend challenges
+🔍 Debugging tricky problems is my daily adventure
+🎸 Fun fact: I play electric guitar — sometimes my code rocks as hard as my riffs 😎
+🌱 Always learning new patterns, frameworks, and ways to make apps better
 
-
-  📌Current Projects  
--  Preparing study materials & exam-style solutions in academic format  
--  Building small *Full Stack* applications  
--  Creating slides and documents for learning and sharing  
+💡 Favorite Quote
+"Do small things with great love" – reminds me that even small lines of code can create something amazing
