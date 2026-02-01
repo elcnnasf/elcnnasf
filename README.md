@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Elcan 
 
 🌐 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://az.linkedin.com/in/elcan-atasov-8558782a0)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elcnnasf/)
 
 🛠 **Languages & Tools**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
@@ -14,9 +14,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-📈 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adminElcan)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adminElcan&layout=compact)
 
 ✨ **About Me**  
 👨‍💻 Passionate about backend and full-stack development with C#/.NET 
