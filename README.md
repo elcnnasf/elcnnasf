@@ -13,5 +13,4 @@
 👨‍💻 Passionate about backend and full-stack development with C#/.NET  
 🧩 Love building scalable web apps and exploring frontend & backend challenges  
 🔍 Enjoy solving complex problems and improving code quality  
-🎸 Fun fact: I play electric guitar — sometimes my code rocks as hard as my riffs 😎  
 🌱 Lifelong learner, always exploring new tools, patterns, and best practices  
