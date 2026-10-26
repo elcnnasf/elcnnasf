@@ -6,9 +6,14 @@ I'm a Software Developer from Baku, Azerbaijan, and a Computer Science student a
 
 I enjoy turning ideas into practical software products, designing APIs, working with databases, and integrating AI services into applications. I learn by building real projects, solving technical challenges, and continuously improving my development skills.
 
-🌐 **Connect with me**  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://az.linkedin.com/in/elcan-atasov-8558782a0).  
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elcnnasf/).
+```md
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://az.linkedin.com/in/elcan-atasov-8558782a0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elcnnasf/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elcnnasf)
+```
+
 
 ## Languages & Tools
 
